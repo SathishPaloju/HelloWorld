@@ -1,7 +1,3 @@
-
-
-
-
 #include <stdio.h>
  
 void swap(int*, int*); //Swap function declaration
@@ -30,4 +26,3 @@ void swap(int *a, int *b)
    *b = *a;
    *a = t;
 }
-
